@@ -16,20 +16,4 @@
 
 7. Tailwindcss:Tailwind is a utility-first CSS framework that helps you rapidly build modern websites without ever leaving your HTML. It provides low-level utility classes that let you build completely custom designs without ever leaving your HTML1. Tailwind automatically removes all unused CSS when building for production, which means your final CSS bundle is the smallest it could possibly be1. The simplest and fastest way to get up and running with Tailwind CSS from scratch is with the Tailwind CLI tool. Docs : https://tailwindcss.com/
 
-## 4. Features 
- ### The COVID Info web application is designed to provide users with the following features:
-- Latest information on COVID-19 cases, deaths, and recoveries globally.
-- A dashboard that displays the current status of the pandemic in the user's country and region.
-- A chart that displays the number of cases, deaths, and recoveries over time.
-- A map that displays the number of cases, deaths, and recoveries in different regions.
-- A contact page where users can store and manage their contacts.
-## 5. User Interface
-The user interface of the COVID Info web application is designed to be user-friendly and intuitive. The web application uses tailwind to build the user interface. The color scheme of the user interface is designed to be easy on the eyes and provide a comfortable user experience. 
-## 6.  Architecture
-- e COVID Info web application is built using a client-server architecture. The client-side of the application is built using React, TypeScript, and tailwindcss.  The application consumes data from a COVID-19 API and displays it in a user-friendly way.
-## 7. Development Environment
-The development environment for the COVID Info web application is set up using VITE, React, and TypeScript. The development environment includes a build tool and development server that is used to build and test the application locally. The code for the application is stored in a GitHub and changes are managed using Git .
-## 8. Deployment
- - The COVID Info web application is deployed to a Hosting platform Netlify.
-## 9. Conclusion: 
- - The COVID Info web application is designed to provide users with up-to-date information on the COVID-19 pandemic. The web application is built using VITE, React, and TypeScript and is designed to be user-friendly and intuitive. The application is deployed to a cloud-based platform and is built and deployed on https://frontend-task-taiyo.netlify.app/contact. 
+
